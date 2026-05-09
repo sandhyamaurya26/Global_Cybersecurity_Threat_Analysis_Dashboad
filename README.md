@@ -59,7 +59,10 @@ The dashboard helps identify:
 
 ## Dataset Information
 
-The dataset used in this project was sourced from Kaggle and utilized for educational and portfolio development purposes.
+The dataset used for this project was obtained from Kaggle for learning, data analysis, and portfolio development purposes.
+
+Dataset Source:
+[Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 
 ---
 
